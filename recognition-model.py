@@ -113,7 +113,7 @@ while True:
         cv2.putText(frame, name, (left + 6, bottom - 6), font, 1.0, (255, 255, 255), 1)
         
 
-    # Display the resulting imag.63-+.63-+.63-+.63-+.63-+.63-+.63-+ e
+    # Display the resulting image
     cv2.imshow('Video', frame)
 
     # Hit 'q' on the keyboard to quit!
